@@ -25,21 +25,29 @@
 
 <p align="center">
   <!-- Language -->
-  <img src="https://img.shields.io/badge/Java-b07219?style=flat-square"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  
+
   <!-- DevOps -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+  <!-- AI / ML -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </p>
+
 
 ---
 
 <!-- ================= GITHUB STATS ================= -->
 <h3 align="center">📊 GitHub Stats</h3>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ejsong25)](https://solved.ac/ejsong25)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejsong25&theme=dark&show_icons=true)
 
