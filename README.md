@@ -43,10 +43,10 @@
 ---
 
 <!-- ================= GITHUB STATS ================= -->
-<h3 align="center">📊 GitHub Stats</h3>
+<!-- <h3 align="center">📊 GitHub Stats</h3>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ejsong25)](https://solved.ac/ejsong25)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ejsong25)](https://solved.ac/ejsong25) -->
 
 ---
 
