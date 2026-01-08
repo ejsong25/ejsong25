@@ -48,9 +48,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ejsong25)](https://solved.ac/ejsong25)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejsong25&theme=dark&show_icons=true)
-
 ---
 
 <!-- ================= FOOTER ================= -->
