@@ -7,7 +7,7 @@
 
   <!-- Animated Typing Header / Summary Cards -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Tracing+Root+Causes;Building+AI+%C2%B7+Data+%C2%B7+Backend+Systems;Learning+%E2%86%92+Validating+%E2%86%92+Applying" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Systematic+Problem+Solving;Building+AI+%C2%B7+Data+%C2%B7+Backend+Systems;Learning+%E2%86%92+Validating+%E2%86%92+Applying" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -62,7 +62,7 @@
 
 ## 🌱 Engineering Philosophy
 
-> **1. 🔍 Trace the Cause (근본 원인 추적)**  
+> **1. 🔍 Systematic Problem Solving (구조적 문제 해결)**  
 > 단편적인 예외 처리에 그치지 않고, 코드와 데이터의 흐름을 단계적으로 디버깅하며 **문제가 일어난 근본적인 원인**을 찾아 해결합니다.
 
 > **2. 🧪 Learn, Validate, Apply (검증 기반 적용)**  
