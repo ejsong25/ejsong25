@@ -90,9 +90,7 @@ AI와 데이터를 실제 서비스로 연결하고,
 
 ## 📫 Contact
 
-- 📧 Email: `your-email@example.com`
-- 💼 LinkedIn: `your-linkedin`
-- 📝 Blog: `your-blog`
+- 📧 Email: `dmswjddll03@naver.com`
 
 ---
 
